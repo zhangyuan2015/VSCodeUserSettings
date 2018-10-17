@@ -1,10 +1,10 @@
 // 将设置放入此文件中以覆盖默认设置
 {
+    "window.zoomLevel": 0.5,
     "telemetry.enableTelemetry": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "files.encoding": "gb2312",
     "workbench.iconTheme": "vscode-icons",
-    "window.zoomLevel": 0.5,
 
     //Go 配置
     "go.gopath": "E:\\Projects\\GOPATH",
@@ -24,5 +24,5 @@
     "go.gotoSymbol.includeImports": true,
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.inferGopath": true,
-    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true
 }
